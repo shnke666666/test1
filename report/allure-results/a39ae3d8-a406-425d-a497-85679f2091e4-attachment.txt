@@ -1,0 +1,3 @@
+正在运行录制脚本: D:\scriptinglsy\play-testing\Testcase\test_playwright_command.py
+运行录制脚本时出错: 'str' object has no attribute 'exists'
+test_playwright_command.py 执行失败

@@ -1,0 +1,3 @@
+正在运行录制脚本: D:\scriptinglsy\play-testing\Testcase\test_playwright_command1.py
+运行录制脚本时出错: Timeout 30000ms exceeded.
+test_playwright_command1.py 执行失败
